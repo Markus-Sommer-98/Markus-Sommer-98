@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Markus-Sommer-98
+- 👋 Hi, I’m Markus Sommer and I am studying Teaching for ComputerScience and Mathematics
 - 👀 I’m interested in Programming in Java
 - 🌱 I’m currently learning at LMU - Munich
 - 💞️ I’m looking to collaborate on some simple Serever-Client-Applications
